@@ -1,4 +1,5 @@
 secret/
 .env
-.main.js
+.main.js/
 vs.code/
+.style.css
